@@ -1,0 +1,9 @@
+streamlit
+pypdf2
+langchain
+langchain-community
+python-dotenv
+faiss-cpu
+transformers
+torch
+ollama
