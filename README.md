@@ -28,3 +28,6 @@ pip install -r requirements.txt
    ```bash
    streamlit run app.py
    ```
+
+
+![alt text](https://github.com/mad-abhi/PDF-Reader/blob/main/working.png)
